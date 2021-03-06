@@ -1,0 +1,4 @@
+.sidebar {
+  flex: 0.2;
+  /* This means, inside the container, give 20% space */
+}
